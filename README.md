@@ -1,5 +1,6 @@
 # Spark
 # RDD
+
 -Spark fundammental data structure
 -RDD is read only,partitioned collection of records
 
